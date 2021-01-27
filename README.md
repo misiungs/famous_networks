@@ -3,3 +3,4 @@ This repository is about implementation of various famous networks architectures
 List of currently implemented networks:  
 1. LeNet on 'MNIST' data set - low-level implementation  
 2. AlexNet on 'Human or Horses' data set - keras implementation  
+3. VGG16 on 'Flowers' data set - keras implementation  
