@@ -4,3 +4,4 @@ List of currently implemented networks:
 1. LeNet on 'MNIST' data set - low-level implementation  
 2. AlexNet on 'Human or Horses' data set - keras implementation  
 3. VGG16 on 'Flowers' data set - keras implementation  
+4. GoogLeNet on 'Flowers' data set - keras high-level (inheritance of Model class) implementation  
